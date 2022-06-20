@@ -108,7 +108,7 @@ h4 {
 
 .header {
   height: 530px;
-  background: url("../img/header.jpg") no-repeat center center / cover;
+  background: url("img/header.jpg") no-repeat center center / cover;
 }
 
 .header nav {
@@ -239,19 +239,19 @@ h4 {
 }
 
 .categories .cover-1 {
-  background: url("../img/cover-1.jpg") no-repeat center center / cover;
+  background: url("img/cover-1.jpg") no-repeat center center / cover;
 }
 
 .categories .cover-2 {
-  background: url("../img/cover-2.jpg") no-repeat center center / cover;
+  background: url("img/cover-2.jpg") no-repeat center center / cover;
 }
 
 .categories .cover-3 {
-  background: url("../img/cover-3.jpg") no-repeat center center / cover;
+  background: url("img/cover-3.jpg") no-repeat center center / cover;
 }
 
 .categories .cover-4 {
-  background: url("../img/cover-4.jpg") no-repeat center center / cover;
+  background: url("img/cover-4.jpg") no-repeat center center / cover;
 }
 
 /* LIVE */
@@ -282,7 +282,7 @@ h4 {
 /* LIVE SPORTS */
 
 .live-sports {
-  background: url("../img/live-sports.jpg") no-repeat center center / cover;
+  background: url("img/live-sports.jpg") no-repeat center center / cover;
   height: 800px;
   position: relative;
 }
@@ -303,7 +303,7 @@ h4 {
 }
 
 .live-sports-logos > div {
-  background: url("../img/network-logo-bg.png") no-repeat center center / cover;
+  background: url("img/network-logo-bg.png") no-repeat center center / cover;
   width: 60px;
   height: 60px;
   display: flex;
@@ -500,7 +500,7 @@ h4 {
   }
 
   .live-sports {
-    background: url("/img/live-sports-small.jpg") no-repeat center center /
+    background: url("img/live-sports-small.jpg") no-repeat center center /
       cover;
   }
 
